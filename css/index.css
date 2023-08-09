@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.test-btn {
+  background-color: #9900ff;
+}
+
 * {
   color: inherit;
   margin: 0;
