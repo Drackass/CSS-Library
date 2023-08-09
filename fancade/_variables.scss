@@ -21,10 +21,6 @@ $colors: (
     "white": white, 
 );
 
-.test-btn{
-    background-color: map-get($colors, "purple");
-}
-
 // @debug map-get($colors, "purple");
 // @debug map-has-key($colors, "secondary");
 // @debug map-has-key($colors, "tertiary");
