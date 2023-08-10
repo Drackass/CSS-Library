@@ -104,14 +104,14 @@ img {
 
 .card {
   display: block;
-  padding: 0.75rem;
-  border: 1px solid #ddd;
+  padding: 1rem;
+  border: 3px solid #ddd;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
 }
 .card .card-title {
   font-size: 1.5rem;
-  padding-bottom: 0.75rem;
+  padding-bottom: 1rem;
   font-weight: bold;
 }
 
@@ -120,7 +120,7 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #1ac888;
 }
@@ -133,10 +133,10 @@ img {
   cursor: pointer;
   display: inline-block;
   border: 0;
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   border-radius: 20px;
   background-color: #fff;
-  border: 1px solid #1ac888;
+  border: 3px solid #1ac888;
 }
 .btn-outlined-secondary:hover {
   background-color: #1ac888;
@@ -151,14 +151,14 @@ img {
 }
 
 .navbar, .navbar-primary {
-  padding: 0.75rem 1.5rem;
+  padding: 1rem 2rem;
   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
 }
 .navbar .site-title, .navbar-primary .site-title {
   font-size: 1.5rem;
 }
 .navbar-primary {
-  background-color: #326dee;
+  background-color: indigo;
 }
 
 .p-0 {
@@ -166,19 +166,19 @@ img {
 }
 
 .pt-3 {
-  padding-top: 3rem;
+  padding-top: 4rem;
 }
 
 .pt-4 {
-  padding-top: 4.5rem;
+  padding-top: 6rem;
 }
 
 .pb-3 {
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 .pb-4 {
-  padding-bottom: 4.5rem;
+  padding-bottom: 6rem;
 }
 
 .m-1 {
